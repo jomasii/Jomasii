@@ -9,7 +9,6 @@
 <div align ="center">
 <a href="https://www.instagram.com.br/jomasii" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jomasii/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://steamcommunity.com/id/jomasii/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 <a href="https://music.youtube.com/playlist?list=PLlBDjAWIG-mP_UYWN3z88p1315FBLDbic" target="_blank"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank"></a>
 </div>
 
@@ -24,8 +23,6 @@
 <div align ="center" style="display: inline_block"><br>
     <img align="center" alt="Joao-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Joao-html" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Joao-css" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="Joao-c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <img align="center" alt="Joao-c++" src="https://img.shields.io/badge/c++-%2300599c.svg?style=for-the-badge&logo=c%2B%2b&logoColor=white">
 </div>
 
