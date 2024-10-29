@@ -13,14 +13,6 @@
 </div>
 
 ##
-<div align="center"><b>Skills</b> </div>
-<div align ="center" style="display: inline_block"><br>
-    <img align="center" alt="Joao-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Joao-html" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="Joao-c++" src="https://img.shields.io/badge/c++-%2300599c.svg?style=for-the-badge&logo=c%2B%2b&logoColor=white">
-</div>
-
-##
 
 <div align="center"><b>Workspace</b> </div>
 
@@ -31,4 +23,3 @@
     <img align="center" alt="Joao-os2" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
     <img align="center" alt="Joao-os3" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
-
