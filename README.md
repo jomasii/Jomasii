@@ -13,12 +13,6 @@
 </div>
 
 ##
-        
-<div align="center">
-    <img height="180em" src = "https://github-readme-stats.vercel.app/api?username=jomasii&show_icons=true&theme=dracula"/>
-</div>
-
-##
 <div align="center"><b>Skills</b> </div>
 <div align ="center" style="display: inline_block"><br>
     <img align="center" alt="Joao-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
